@@ -1,2 +1,2 @@
-# telephone-book
-## Concole telephone application
+# phone-book
+## Concole phone book application
