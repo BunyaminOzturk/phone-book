@@ -1,2 +1,2 @@
 # phone-book
-## Concole phone book application
+## Console phone book application
